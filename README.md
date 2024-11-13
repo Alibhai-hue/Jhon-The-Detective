@@ -1,0 +1,1 @@
+John the Detective is a game where John is the detective and the main character. He will be given a murder case and he will go to the crime scene where he will look for clues and a list of suspect will be made after looking the clues and the one suspect at whom the clues point will be arrested.
